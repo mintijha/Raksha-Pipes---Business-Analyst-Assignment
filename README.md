@@ -15,29 +15,29 @@
 - **`## Project Overview`**
 - Brief description of the project, objectives, and the technologies used (Python, MySQL, Power BI).
 
-# Data Generation
+### **Data Generation**
 
 used the faker library in Python to generate synthetic data for various entities such as products, customers, orders, employees, sales, inventory management, financial metrics, and categories.
 
 
-# Exporting to CSV:
+### **Exporting to CSV:**
 
 exported each DataFrame to a CSV file, enabling easy storage, sharing, and integration with database systems.
 
-# ERD Diagram: 
+### **ERD Diagram:** 
 
 created an Entity-Relationship Diagram (ERD) to visualize the relationships between different entities in the database schema. This helps in understanding the structure of the database and the connections between various tables.
 
 
 ![ERD Diagram](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/36eeba12-7f81-4b4d-8a54-d1908baa41ea)
 
-## Database Design
+### **Database Design**
 
-# Database Creation: 
+### **Database Creation:** 
 
  Using SQL commands (CREATE SCHEMA and USE), a new database named "raksha_pipes_" was created, providing a dedicated environment for storing Raksha Pipes' data. 
 
-# Table Names:-
+### **Table Names:-**
 
 Categories
 
