@@ -6,7 +6,7 @@
 
 The objective of this task was to simulate the operations of Raksha Pipes by generating synthetic data that represents various aspects of the business, such as product inventory, customer interactions, sales transactions, employee information, and financial metrics. so,created a dataset that can be used for testing, analysis, and database development purposes.
 
-Steps:-
+# Steps:-
 
 Data Generation:  used the faker library in Python to generate synthetic data for various entities such as products, customers, orders, employees, sales, inventory management, financial metrics, and categories.
 
@@ -21,7 +21,7 @@ ERD Diagram: created an Entity-Relationship Diagram (ERD) to visualize the relat
 
 # Step -2 in my sql
 
-Database Creation: 
+# Database Creation: 
 
  Rationale: The creation of a MySQL database is essential to store and manage the generated data in a structured and organized manner. 
 
@@ -156,7 +156,7 @@ Stock Quantity Distribution: The majority of products have a stock alert status 
 Inventory Management: The higher sum of stock quantities with a "Normal" stock alert status suggests that the majority of products are adequately stocked to meet demand. However, products with a "Low" stock alert status may require immediate attention to avoid stockouts and potential revenue loss. Businesses should prioritize replenishing low-stock items to maintain optimal inventory levels and ensure product availability to meet customer demand.
 
 
-***video link**
+# video link
 
 https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221hd8JoRAOpmzh6gmbS6r-Q2vm24yQ4b5S%22%5D,%22action%22:%22open%22,%22userId%22:%22110465571053435824910%22,%22resourceKeys%22:%7B%7D%7D
 
