@@ -71,7 +71,8 @@ Dashboarding in power bi
 
  ![Dashboard](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/437d4ade-5845-42e6-9795-b64b489ec264)
 
-Chart-1 sum of quantity by stauts Insights:
+Chart-1 sum of quantity by stauts 
+Insights:
 
 Highest Quantity: Cancelled orders have the highest sum of quantities, indicating a potential issue in the order fulfillment process that requires investigation.
 
@@ -84,6 +85,7 @@ Pending Orders: Pending orders have the lowest sum of quantities, signaling pote
 Overall Order Status Distribution: The distribution of order statuses suggests a need for optimization in the order management process to reduce cancellations, streamline shipping, and expedite order fulfillment to improve customer satisfaction and retention.
 
 Business Insights:
+
 Operational Efficiency: Understanding the reasons behind the high volume of cancelled orders can help identify operational inefficiencies, enabling targeted improvements to reduce cancellations and improve overall order processing efficiency.
 
 Customer Experience: Analyzing the distribution of order statuses can provide insights into customer satisfaction levels. By addressing issues related to pending and delayed orders, businesses can enhance the customer experience and foster loyalty.
