@@ -36,24 +36,23 @@ Approach: Using SQL commands (CREATE SCHEMA and USE), a new database named "raks
 
 # Tables:-
 
-Categories: This table stores information about product categories, including CategoryID, CategoryName, and Description.
+Categories
 
-Products: Stores details about products, such as ProductID, Name, Description, CategoryID (foreign key referencing Categories table), UnitPrice, and StockQuantity.
+Products
 
-Customers: Contains details of customers, including CustomerID, CustomerName, ContactName, Address, Phone, and Email.
+Customers
 
-Orders_details: This table captures the details of each order, including order_id, product_id (foreign key referencing Products table), customer_id (foreign key referencing Customers table), quantity, and 
-OrderDate.
+Orders_details
 
-Sales: Stores information related to sales transactions, such as SaleID, TotalSales, SalesByCategory, SalesByProduct, SalesByRegion, and SalesByCity.
+Sales
 
-InventoryManagement: Tracks inventory-related metrics, including InventoryID, ProductID (foreign key referencing Products table), CurrentStockLevels, InventoryTurnoverRate, and StockAlerts.
+InventoryManagement
 
-FinancialMetrics: Stores financial metrics data, such as MetricID, Revenue, Costs, GrossMargin, and ProfitabilityByProductCategory.
+FinancialMetrics
 
-Employees: Contains information about employees, including EmployeeID, EmployeeName, Positions, Department, HireDate, Phone, CustomerID (foreign key referencing Customers table), and MetricID (foreign key referencing FinancialMetrics table).
+Employees
 
-Orders: This table captures order-related information, including OrderID, CustomerID (foreign key referencing Customers table), ProductID (foreign key referencing Products table), OrderDate, Quantity, TotalPrice, Status, and SaleID
+Orders
 
 imported CSV files into these tables that were exported from Python. This step helps populate the database with synthetic data generated using the Python script created a comprehensive database structure that mirrors the operations of Raksha Pipes, allowing for efficient data management and analysis.
 
