@@ -4,7 +4,7 @@ Step -1 in python
 
 Objective:
 
-The objective of this task was to simulate the operations of Raksha Pipes by generating synthetic data that represents various aspects of the business, such as product inventory, customer interactions, sales transactions, employee information, and financial metrics. By doing so, you've created a dataset that can be used for testing, analysis, and database development purposes.
+The objective of this task was to simulate the operations of Raksha Pipes by generating synthetic data that represents various aspects of the business, such as product inventory, customer interactions, sales transactions, employee information, and financial metrics. so,created a dataset that can be used for testing, analysis, and database development purposes.
 
 Steps:-
 
