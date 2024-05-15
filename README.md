@@ -157,3 +157,5 @@ Inventory Management: The higher sum of stock quantities with a "Normal" stock a
 
 
 ***video link**
+https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221hd8JoRAOpmzh6gmbS6r-Q2vm24yQ4b5S%22%5D,%22action%22:%22open%22,%22userId%22:%22110465571053435824910%22,%22resourceKeys%22:%7B%7D%7D
+
