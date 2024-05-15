@@ -1,7 +1,9 @@
 # Raksha-Pipes---Business-Analyst-Assignment
 
 Step -1 in python
+
 Objective:
+
 The objective of this task was to simulate the operations of Raksha Pipes by generating synthetic data that represents various aspects of the business, such as product inventory, customer interactions, sales transactions, employee information, and financial metrics. By doing so, you've created a dataset that can be used for testing, analysis, and database development purposes.
 
 Steps:-
@@ -14,8 +16,13 @@ Exporting to CSV: You've exported each DataFrame to a CSV file, enabling easy st
 
 ERD Diagram: You've created an Entity-Relationship Diagram (ERD) to visualize the relationships between different entities in the database schema. This helps in understanding the structure of the database and the connections between various tables.
 
+
+![ERD Diagram](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/36eeba12-7f81-4b4d-8a54-d1908baa41ea)
+
 Step -2 in my sql
+
 Database Creation: 
+
  Rationale: The creation of a MySQL database is essential to store and manage the generated data in a structured and organized manner. 
 
 
@@ -23,30 +30,49 @@ Database Creation:
 
 
 Approach: Using SQL commands (CREATE SCHEMA and USE), a new database named "raksha_pipes_" was created, providing a dedicated environment for storing Raksha Pipes' data. 
+
 Tables:-
+
 Categories: This table stores information about product categories, including CategoryID, CategoryName, and Description.
+
 Products: Stores details about products, such as ProductID, Name, Description, CategoryID (foreign key referencing Categories table), UnitPrice, and StockQuantity.
+
 Customers: Contains details of customers, including CustomerID, CustomerName, ContactName, Address, Phone, and Email.
-Orders_details: This table captures the details of each order, including order_id, product_id (foreign key referencing Products table), customer_id (foreign key referencing Customers table), quantity, and OrderDate.
+
+Orders_details: This table captures the details of each order, including order_id, product_id (foreign key referencing Products table), customer_id (foreign key referencing Customers table), quantity, and 
+OrderDate.
+
 Sales: Stores information related to sales transactions, such as SaleID, TotalSales, SalesByCategory, SalesByProduct, SalesByRegion, and SalesByCity.
+
 InventoryManagement: Tracks inventory-related metrics, including InventoryID, ProductID (foreign key referencing Products table), CurrentStockLevels, InventoryTurnoverRate, and StockAlerts.
+
 FinancialMetrics: Stores financial metrics data, such as MetricID, Revenue, Costs, GrossMargin, and ProfitabilityByProductCategory.
+
 Employees: Contains information about employees, including EmployeeID, EmployeeName, Positions, Department, HireDate, Phone, CustomerID (foreign key referencing Customers table), and MetricID (foreign key referencing FinancialMetrics table).
+
 Orders: This table captures order-related information, including OrderID, CustomerID (foreign key referencing Customers table), ProductID (foreign key referencing Products table), OrderDate, Quantity, TotalPrice, Status, and SaleID
+
 imported CSV files into these tables that were exported from Python. This step helps populate the database with synthetic data generated using the Python script created a comprehensive database structure that mirrors the operations of Raksha Pipes, allowing for efficient data management and analysis.
 
 Step 3 - in power bi
+
 Connect Power BI to SQL Database 
+
 Why: Connecting Power BI to the SQL database allows you to import data directly from your database into Power BI for analysis and visualization
 Create Relationships in power bi  
+
 ·        Step: Define relationships between tables in Power BI's data model, based on common key columns, to enable cross-table analysis. 
+
 ·        Why: Establishing relationships ensures data integrity and enables seamless navigation and exploration of related data across multiple tables in your dashboard. 
+
 Dashboarding in power bi  
+
 ·        Why: Power BI Desktop provides a user-friendly interface for designing and building insightful dashboards with data from various sources, including SQL databases. 
 
  ![Dashboard](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/437d4ade-5845-42e6-9795-b64b489ec264)
 
 Chart-1 sum of quantity by stauts Insights:
+
 Highest Quantity: Cancelled orders have the highest sum of quantities, indicating a potential issue in the order fulfillment process that requires investigation.
 
 Shipping Efficiency: Shipped orders closely follow Cancelled orders in quantity, suggesting efficient shipping processes or a high volume of orders in transit.
