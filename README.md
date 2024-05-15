@@ -8,13 +8,13 @@ The objective of this task was to simulate the operations of Raksha Pipes by gen
 
 Steps:-
 
-Data Generation: You've used the faker library in Python to generate synthetic data for various entities such as products, customers, orders, employees, sales, inventory management, financial metrics, and categories.
+Data Generation:  used the faker library in Python to generate synthetic data for various entities such as products, customers, orders, employees, sales, inventory management, financial metrics, and categories.
 
 Data Organization: The generated data has been organized into separate Pandas DataFrames for each entity, making it easier to manage and analyze.
 
-Exporting to CSV: You've exported each DataFrame to a CSV file, enabling easy storage, sharing, and integration with database systems.
+Exporting to CSV: exported each DataFrame to a CSV file, enabling easy storage, sharing, and integration with database systems.
 
-ERD Diagram: You've created an Entity-Relationship Diagram (ERD) to visualize the relationships between different entities in the database schema. This helps in understanding the structure of the database and the connections between various tables.
+ERD Diagram: created an Entity-Relationship Diagram (ERD) to visualize the relationships between different entities in the database schema. This helps in understanding the structure of the database and the connections between various tables.
 
 
 ![ERD Diagram](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/36eeba12-7f81-4b4d-8a54-d1908baa41ea)
