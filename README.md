@@ -1,68 +1,14 @@
 # Raksha-Pipes---Business-Analyst-Assignment
-Data Generation with python  
 
-Description of the tools and libraries used: Python, Pandas, NumPy, and Random.  
+Objective:
+The objective of this task was to simulate the operations of Raksha Pipes by generating synthetic data that represents various aspects of the business, such as product inventory, customer interactions, sales transactions, employee information, and financial metrics. By doing so, you've created a dataset that can be used for testing, analysis, and database development purposes.
 
-Rationale for setting seeds for reproducibility: Ensures consistency in data generation for validation and testing purposes.  
+Steps:-
 
-Data Tables Created  
+Data Generation: You've used the faker library in Python to generate synthetic data for various entities such as products, customers, orders, employees, sales, inventory management, financial metrics, and categories.
 
-Products Table:  
+Data Organization: The generated data has been organized into separate Pandas DataFrames for each entity, making it easier to manage and analyze.
 
-Features: Product ID, Product Name, Brand ID, Cleaning Category ID.  
+Exporting to CSV: You've exported each DataFrame to a CSV file, enabling easy storage, sharing, and integration with database systems.
 
-Explanation of each feature and its significance for Raksha Pipes.  
-
-Cleaning Categories Table:  
-
-Features: Cleaning Category ID, Category Name.  
-
-Role of cleaning categories in product classification and inventory management.  
-
-Orders Table:  
-
-Features: Order ID, Product ID, Customer ID, Quantity, Order Date.  
-
-Importance of order details for tracking sales and customer behavior.  
-
-Brands Prices Table:  
-
-Features: Brand ID, Brand Name, Price.  
-
-Significance of brand prices in pricing strategies and revenue analysis.  
-
-Product Sales Info Table:  
-
-Features: Product ID, Sales Year, Sales Month, Units Sold.  
-
-Role of sales information in assessing product performance and demand forecasting.  
-
-Product Data Rating Table:  
-
-Features: Product ID, Rating.  
-
-Impact of product ratings on customer satisfaction and product quality analysis.  
-
-Water Tanks Data Table:  
-
-Features: Product ID, Capacity in Liters, Material.  
-
-Explanation of water tanks data for understanding product specifications and materials used.  
-
-Customer Data Table:  
-
-Features: Customer ID, Customer Name, City, Email.  
-
-Importance of customer details for customer relationship management and marketing strategies.  
-
-Folder Creation and File Export  
-
-Explanation of creating a new folder for storing CSV files using the os.makedirs function.  
-
-Description of defining file paths and exporting each DataFrame to CSV files within the created folder.  
-
-  
-
-Why:- 
-
-Overall, these tables collectively provide Raksha Pipes with comprehensive data management capabilities, enabling informed decision-making, efficient operations, and customer-centric strategies to drive business growth and success.  
+ERD Diagram: You've created an Entity-Relationship Diagram (ERD) to visualize the relationships between different entities in the database schema. This helps in understanding the structure of the database and the connections between various tables.
