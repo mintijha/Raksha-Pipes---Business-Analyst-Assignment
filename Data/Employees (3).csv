@@ -1,0 +1,101 @@
+EmployeeID,EmployeeName,Positions,Department,HireDate,Phone,CustomerID,MetricID
+1,Christine Bell,Assistant,HR,2014-09-23,+1-470-508-6796x397,464,213
+2,Kim Murray,Manager,Finance,2020-09-13,709-558-1075,182,323
+3,Tiffany Hayes,Manager,Inventory,2016-03-10,(990)343-6534,300,246
+4,Craig Blake,Clerk,Inventory,2022-06-26,341-772-0279x62528,226,230
+5,Kristin Brooks,Assistant,HR,2014-05-21,6462037888,134,358
+6,Terri Mendoza,Manager,Inventory,2020-12-21,442.965.6196,65,342
+7,Penny Davila,Clerk,Inventory,2024-01-01,707.583.4504,303,66
+8,Mrs. Erin Cherry,Clerk,HR,2018-08-02,497.313.7036,370,475
+9,Kristen Miller,Clerk,Finance,2014-08-16,2968196410,409,158
+10,Sara Woodard,Assistant,Sales,2018-01-14,828.320.7026x7401,315,33
+11,Raymond Howard,Manager,HR,2020-05-06,6097492403,266,17
+12,Catherine Parker,Assistant,Finance,2021-09-30,978.523.5077x87365,198,250
+13,Denise Chambers,Assistant,Inventory,2017-05-18,001-463-759-6787x6897,498,243
+14,Haley Weiss,Assistant,Inventory,2018-04-09,2714623837,226,8
+15,Amanda Johnson,Clerk,Inventory,2019-09-25,519-566-8593x661,136,319
+16,Cindy Stuart,Manager,Inventory,2015-05-25,001-833-300-2546,7,240
+17,Joshua Tucker,Salesperson,Inventory,2022-01-29,870.365.2053,382,237
+18,Matthew Smith,Clerk,Finance,2020-12-26,812-347-6217x02204,172,447
+19,Joann Steele,Assistant,Finance,2023-02-15,670.698.6723,491,470
+20,Matthew Mathis,Manager,Sales,2020-01-23,5612100076,485,276
+21,Allison Rowland,Manager,Sales,2014-08-18,(888)753-5488x319,324,64
+22,Diana Beltran,Salesperson,Sales,2024-04-28,+1-554-794-8250x4253,89,242
+23,Karen Delgado,Salesperson,HR,2019-01-07,(931)730-8283x19196,491,38
+24,Patrick Moore,Clerk,Finance,2021-04-09,001-493-222-0633x8316,167,91
+25,Jerome Rowe,Clerk,Sales,2018-07-01,833.398.5736x138,225,170
+26,Emily Simon,Clerk,HR,2024-02-01,9286757373,456,434
+27,Emily Fox,Manager,Finance,2023-03-06,+1-631-462-3597x697,253,479
+28,Lorraine Wilson,Assistant,Sales,2022-03-07,+1-762-650-4430,163,298
+29,Billy Bowman,Clerk,HR,2018-06-30,779-644-4242,481,355
+30,Alan Wilkinson,Assistant,Sales,2020-10-19,001-820-639-7392x39675,64,159
+31,Brandon Bennett,Assistant,Sales,2016-05-11,(666)298-7481x485,345,407
+32,Kenneth Gonzales,Clerk,Finance,2015-12-27,+1-962-371-3043x2400,456,307
+33,Katrina Gordon,Salesperson,Finance,2021-09-17,2085887436,111,374
+34,Steven Carpenter,Manager,Finance,2018-12-07,291-867-8987,399,211
+35,Brad Osborne MD,Salesperson,Sales,2022-09-09,424.438.7668x0970,278,181
+36,Erin Ayala MD,Salesperson,Inventory,2014-09-15,7616964036,473,453
+37,Patrick Lee,Manager,Sales,2022-03-24,(783)644-9759x36796,293,347
+38,Jeffrey Key,Clerk,Finance,2022-07-22,001-431-256-4536x805,104,200
+39,Erica Wagner,Manager,HR,2021-01-18,582-528-3423,37,5
+40,Thomas Mckenzie,Assistant,Finance,2019-10-01,+1-970-252-3468x38179,235,459
+41,Susan Miller,Clerk,Inventory,2023-04-15,+1-945-444-8583x8549,346,46
+42,Valerie Wilkinson,Salesperson,Inventory,2024-01-15,001-735-229-2263x456,384,79
+43,Rachel Williams,Salesperson,Sales,2019-05-14,(517)942-9415,15,14
+44,Mr. Zachary Russell II,Clerk,HR,2017-11-29,(636)322-1073x97920,311,306
+45,Paige Kennedy,Clerk,Sales,2020-05-26,(735)262-3869,128,356
+46,Kristina Taylor,Clerk,Sales,2018-03-03,+1-242-894-5677x1082,72,433
+47,Manuel Rodriguez,Assistant,Finance,2015-07-07,964-468-1007x23544,87,469
+48,Mrs. Alison Carney,Manager,Finance,2024-04-12,594.943.3331x5593,49,365
+49,Alex Singleton,Salesperson,HR,2022-05-23,(934)940-0166x73934,125,51
+50,Charles Benson,Assistant,Inventory,2019-10-22,(700)329-4410x6276,258,435
+51,Kerry Orr DDS,Assistant,Sales,2017-07-08,001-546-548-7179x343,103,468
+52,Robin Michael,Manager,HR,2014-10-21,217.956.2050x42389,461,58
+53,Richard Caldwell,Salesperson,Sales,2014-08-29,001-837-345-4954x6655,391,417
+54,Ashley Howard,Salesperson,Finance,2018-03-21,920.809.3639,192,135
+55,Jack Suarez,Salesperson,Sales,2018-08-03,601-891-2255,68,473
+56,Paul Lopez,Manager,HR,2024-02-25,369.285.8987,438,366
+57,April Williams,Clerk,Sales,2020-07-03,001-295-377-8214,31,397
+58,Rhonda Duncan,Clerk,Finance,2017-12-21,(232)840-0597x3309,139,246
+59,Lauren Clark,Assistant,HR,2022-03-05,+1-645-671-2731x568,129,143
+60,Melissa Perez,Salesperson,Sales,2018-02-05,394.741.5674,266,325
+61,Steven Smith,Clerk,Inventory,2014-06-26,7785244919,190,406
+62,Jennifer Mercer,Manager,Inventory,2023-04-17,904.929.4854,251,419
+63,Laura Lowe,Manager,Sales,2017-08-16,+1-581-788-6871x84407,10,350
+64,Cory Anderson,Assistant,Finance,2024-02-26,481-435-3198x347,233,472
+65,Christina Gardner,Assistant,Inventory,2019-06-14,286-549-3376,387,354
+66,Kenneth Stewart,Salesperson,Finance,2022-12-21,(552)966-1609x0819,471,25
+67,Alexander Thomas,Assistant,Sales,2018-09-22,(978)729-1073,379,265
+68,Catherine Davis,Manager,HR,2020-04-09,(236)795-3938x368,376,143
+69,Megan Bartlett,Manager,Sales,2016-07-30,930-746-4513x7872,166,386
+70,John Cortez,Assistant,Inventory,2022-09-20,+1-311-634-9834x82242,104,168
+71,Kelly Delgado,Manager,HR,2018-08-27,655-761-4119x1593,80,491
+72,Melissa Dudley,Salesperson,Inventory,2018-05-29,(290)258-2685x6607,44,164
+73,Tammy Watkins,Salesperson,HR,2019-12-17,534.566.7501x74580,218,17
+74,James Anderson,Clerk,HR,2014-05-17,001-433-215-0390,298,175
+75,Joyce Ramos,Salesperson,Inventory,2022-03-03,+1-233-725-5570x16679,362,438
+76,Jill Kim,Manager,Sales,2016-04-23,321-840-4442,366,69
+77,Anthony Nicholson,Assistant,HR,2016-07-23,(579)715-1252x86213,437,221
+78,William Day DVM,Assistant,Inventory,2016-10-19,001-840-467-1009,203,238
+79,Collin White,Clerk,HR,2016-04-25,001-932-842-9542,357,360
+80,Steven Davis,Clerk,Sales,2020-12-01,644-937-8529x010,73,305
+81,Mr. Michael Robbins,Assistant,HR,2017-06-22,001-805-829-3685x271,1,17
+82,Robin Hall,Salesperson,HR,2018-12-07,(494)312-8784,333,45
+83,Thomas Hayes,Assistant,Finance,2020-06-30,932-512-2767,353,440
+84,Alan White,Clerk,HR,2018-07-05,001-698-439-7859x89981,58,253
+85,Andrea Smith,Clerk,Finance,2022-11-18,+1-467-279-1887x0577,225,19
+86,Carmen Scott,Clerk,Inventory,2021-07-23,286.682.8137,64,49
+87,Briana Carlson,Clerk,HR,2021-06-12,+1-623-214-8483,425,223
+88,Anthony Hays,Clerk,Inventory,2018-08-05,315.704.6015,308,139
+89,Justin Barnes,Clerk,HR,2016-05-18,692-750-9516x981,42,472
+90,Kristin Ferguson,Clerk,Sales,2023-04-05,427.827.8332,424,119
+91,Tracy Thompson,Clerk,Sales,2021-02-05,001-398-500-3640x067,161,17
+92,Jonathan Rubio,Salesperson,Inventory,2021-06-05,849.969.5283,271,371
+93,Mrs. Sharon Allen,Assistant,Finance,2016-04-10,(678)787-8950x66395,177,236
+94,Laura Petersen,Salesperson,Sales,2017-11-22,001-746-974-5207,11,341
+95,Ryan Johnson,Assistant,Inventory,2019-01-08,(466)774-6182x789,459,410
+96,Dennis Flowers,Clerk,HR,2020-05-04,615-539-5672x917,212,257
+97,Renee Hernandez MD,Salesperson,HR,2016-03-24,001-310-689-5096x79600,47,345
+98,Patrick Matthews,Manager,Sales,2015-06-14,+1-507-230-1761x003,36,346
+99,Anthony Bell,Salesperson,Inventory,2019-11-09,(938)724-8734x9954,180,27
+100,Kevin Castillo,Clerk,Sales,2016-12-31,001-303-959-4917x827,101,204
