@@ -72,6 +72,7 @@ Dashboarding in power bi
  ![Dashboard](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/437d4ade-5845-42e6-9795-b64b489ec264)
 
 Chart-1 sum of quantity by stauts 
+
 Insights:
 
 Highest Quantity: Cancelled orders have the highest sum of quantities, indicating a potential issue in the order fulfillment process that requires investigation.
@@ -96,6 +97,7 @@ Insights:
 
 Profitability Variation: PVC-U (unplasticised PVC) has the highest sum of gross margin, indicating it may be the most profitable product category among the listed PVC types.
 Consistency in Profit Margins: There is a relatively consistent range of gross margins across the PVC product categories, with C-PVC, PVC-O, and Modified PVC following closely behind PVC-U.
+
 Business Insights:
 
 Product Performance Analysis: Understanding the profitability of each PVC product category allows businesses to evaluate the performance of their product lines. It provides insights into which categories contribute most significantly to overall profitability and where to focus resources for growth.
@@ -131,6 +133,8 @@ Retention Strategies: Focusing on retaining and nurturing relationships with top
 
 chart - 5 Sum of SaleID by SalesByProduct
 
+ Insights:
+
 Top Selling Products: Plumbing Product has the highest sum of SaleIDs, indicating it is the top-selling product among the listed products.
 
 Product Performance: There is variability in the number of SaleIDs among different products, suggesting differences in demand and popularity across product categories.
@@ -143,9 +147,11 @@ Diversification Opportunities: While Plumbing Product may be the top-selling ite
 
 chart -6 Sum of StockQuantity by StockAlerts
 
+Insights:
+
 Stock Quantity Distribution: The majority of products have a stock alert status of "Normal," with a significantly higher sum of stock quantities compared to those with a "Low" stock alert status. Business 
 
-Insights:
+Business Insights:
 
 Inventory Management: The higher sum of stock quantities with a "Normal" stock alert status suggests that the majority of products are adequately stocked to meet demand. However, products with a "Low" stock alert status may require immediate attention to avoid stockouts and potential revenue loss. Businesses should prioritize replenishing low-stock items to maintain optimal inventory levels and ensure product availability to meet customer demand.
 
