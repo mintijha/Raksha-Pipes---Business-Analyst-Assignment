@@ -1,10 +1,10 @@
-                                                                             # Raksha-Pipes---Business-Analyst-Assignment
+# Raksha-Pipes---Business-Analyst-Assignment
 
           
-          ![WhatsApp Image 2024-05-12 at 6 26 05 PM](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/5c6a1c97-5751-4bb6-85ee-23819418140f)
-                                                                      # Raksha-Pipes---Business-Analyst-Assignment
+       
 
-                                                                                
+        ![Uploading WhatsApp Image 2024-05-12 at 6.26.05 PM.jpeg…]()
+                                                                        
 
 # Step -1 in python
 
