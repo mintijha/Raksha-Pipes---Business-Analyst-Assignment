@@ -66,8 +66,9 @@ Power BI Desktop provides a user-friendly interface for designing and building i
 Connect Power BI to SQL Database 
 
 # Dashboarding in power bi  
+![Dashboard Raksha pipe](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/e149f06c-2e9c-4e25-8b5c-db4578389a29)
 
- ![Dashboard](https://github.com/mintijha/Raksha-Pipes---Business-Analyst-Assignment/assets/123978172/437d4ade-5845-42e6-9795-b64b489ec264)
+
 
 
 # video link
